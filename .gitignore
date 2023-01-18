@@ -2,3 +2,5 @@
 database-unclean/*
 src/.env
 src/cmv.tar.bz2
+.DS_Store
+src/output.parquet
